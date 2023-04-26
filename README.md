@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
+ <img width=200px height=200px src="[https://i.imgur.com/6wj0hh6.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftopics%2Fhospital-management-system%3Fl%3Dpython&psig=AOvVaw11txWWXobtW-hg6xS2NoI1&ust=1682595253838000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJDy9_y5x_4CFQAAAAAdAAAAABAE)" alt="Project logo"></a>
 </p>
 
 <h3 align="center">Hospital Management System Using Java</h3>
