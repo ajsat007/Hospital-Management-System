@@ -1,7 +1,5 @@
 # Hospital-Management-System
 
-# project-documentation
-
 <p align="center">
   <a href="" rel="noopener">
  <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
@@ -82,11 +80,11 @@ https://github.com/ajsat007/Hospital-Management-System.gitGive the example
 
 ## Pharmacy:-
 
-![1682504123490](image/https://github.com/ajsat007/Hospital-Management-System/blob/main/screenshot/Screenshot%20(500).png)
+![1682504123490](https://github.com/ajsat007/Hospital-Management-System/blob/main/screenshot/Screenshot%20(500).png)
 
 ## 🎈Admin Panels  `<a name="usage"></a>`
 
-![1682504402931](image/README/1682504402931.png)
+![1682504402931](https://github.com/ajsat007/Hospital-Management-System/blob/main/screenshot/Screenshot%20(555).png)
 
 ## Features in Admin Panel:-
 
@@ -134,7 +132,7 @@ https://github.com/ajsat007/Hospital-Management-System.gitGive the example
 
 ## 🎈Receptionist Portal:-
 
-![1682504847311](image/README/1682504847311.png)
+![1682504847311](https://github.com/ajsat007/Hospital-Management-System/blob/main/screenshot/Screenshot%20(551).png)
 
 ## Features of Receptioninst Portal:-
 
@@ -144,7 +142,7 @@ https://github.com/ajsat007/Hospital-Management-System.gitGive the example
 
 ## 🎈Doctor Portal:-
 
-![1682506047517](image/README/1682506047517.png)
+![1682506047517](https://github.com/ajsat007/Hospital-Management-System/blob/main/screenshot/Screenshot%20(552).png)
 
 ## Features of Doctor Portal :-
 
@@ -153,7 +151,7 @@ https://github.com/ajsat007/Hospital-Management-System.gitGive the example
 
 ## 🎈Pharmacy :-
 
-![1682506283106](image/README/1682506283106.png)
+![1682506283106](https://github.com/ajsat007/Hospital-Management-System/blob/main/screenshot/Screenshot%20(500).png)
 
 ## Features of  Pharmacy Portal :-
 
