@@ -66,7 +66,7 @@ https://github.com/ajsat007/Hospital-Management-System.gitGive the example
 
 ## 🎈 Login Panels  `<a name="usage"></a>`
 
-## ![1682503871930](image/README/1682503871930.png)Admin  Login Panel :-
+## [(image/README/1682503871930.png](https://github.com/ajsat007/Hospital-Management-System/blob/main/screenshot/Screenshot%20(496).png))Admin  Login Panel :-
 
 ![1682503845177](image/README/1682503845177.png)
 
