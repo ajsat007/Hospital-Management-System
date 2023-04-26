@@ -1,5 +1,7 @@
 # Hospital-Management-System
 
+# project-documentation
+
 <p align="center">
   <a href="" rel="noopener">
  <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
@@ -66,21 +68,21 @@ https://github.com/ajsat007/Hospital-Management-System.gitGive the example
 
 ## 🎈 Login Panels  `<a name="usage"></a>`
 
-## [(image/README/1682503871930.png](https://github.com/ajsat007/Hospital-Management-System/blob/main/screenshot/Screenshot%20(496).png))Admin  Login Panel :-
+## ![1682503871930](https://github.com/ajsat007/Hospital-Management-System/blob/main/screenshot/Screenshot%20(496).png)Admin  Login Panel :-
 
-![1682503845177](image/README/1682503845177.png)
+
 
 ## Receptionist Login Panel:-
 
-![1682503975604](image/README/1682503975604.png)
+![1682503975604](https://github.com/ajsat007/Hospital-Management-System/blob/main/screenshot/Screenshot%20(498).png)
 
 ## Doctor Login Panel:-
 
-![1682503959590](image/README/1682503959590.png)
+![1682503959590](https://github.com/ajsat007/Hospital-Management-System/blob/main/screenshot/Screenshot%20(499).png)
 
 ## Pharmacy:-
 
-![1682504123490](image/README/1682504123490.png)
+![1682504123490](image/https://github.com/ajsat007/Hospital-Management-System/blob/main/screenshot/Screenshot%20(500).png)
 
 ## 🎈Admin Panels  `<a name="usage"></a>`
 
