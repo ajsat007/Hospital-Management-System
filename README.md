@@ -167,7 +167,7 @@ https://github.com/ajsat007/Hospital-Management-System.gitGive the example
 
 # ✍️ Authors `<a name = "authors"></a>`
 
-- [@a](https://github.com/ajsat007)Ajinkya Satkar - Idea & Initial work
+- [@ajsat007 ](https://github.com/ajsat007)Ajinkya Satkar - Idea & Initial work
 
 # 🎉 Acknowledgements `<a name = "acknowledgement"></a>`
 
