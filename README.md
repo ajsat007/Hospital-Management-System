@@ -31,13 +31,13 @@
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgement)
 
-## 🧐 About `<a name = "about"></a>`
+## 🧐 About <a name = "about"></a>
 
 Hospital Management System (HMS) is a comprehensive software package that is used to manage all the activities of a hospital. Java is a powerful programming language that is used to develop HMS. It provides a wide range of features that can help hospitals in streamlining their operations.
 
 Java is a robust and secure language that is used by many organizations. It is also an open source language that can be used to create applications for any platform. Java provides an easy to use interface that allows hospitals to manage their data in an efficient manner.
 
-## 🏁 Getting Started `<a name = "getting_started"></a>`
+## 🏁 Getting Started <a name = "getting_started"></a>
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
 
@@ -64,7 +64,7 @@ https://github.com/ajsat007/Hospital-Management-System.gitGive the example
 
 # Project Views 
 
-## 🎈 Login Panels  `<a name="usage"></a>`
+## 🎈 Login Panels  <a name="usage"></a>
 
 ## ![1682503871930](https://github.com/ajsat007/Hospital-Management-System/blob/main/screenshot/Screenshot%20(496).png)Admin  Login Panel :-
 
@@ -82,7 +82,7 @@ https://github.com/ajsat007/Hospital-Management-System.gitGive the example
 
 ![1682504123490](https://github.com/ajsat007/Hospital-Management-System/blob/main/screenshot/Screenshot%20(500).png)
 
-## 🎈Admin Panels  `<a name="usage"></a>`
+## 🎈Admin Panels  <a name="usage"></a>
 
 ![1682504402931](https://github.com/ajsat007/Hospital-Management-System/blob/main/screenshot/Screenshot%20(555).png)
 
@@ -159,13 +159,13 @@ https://github.com/ajsat007/Hospital-Management-System.gitGive the example
 2. Remove Medicine
 3. Update Medicine
 
-# ⛏️ Built Using `<a name = "built_using"></a>`
+# ⛏️ Built Using <a name = "built_using"></a>
 
 - MySQL - Database
 - JSwing and JFrames - Windows based application
 - JDBC - Java API to connect and execute the query with database
 
-# ✍️ Authors `<a name = "authors"></a>`
+# ✍️ Authors <a name = "authors"></a>
 
 - [@ajsat007 ](https://github.com/ajsat007)Ajinkya Satkar - Idea & Initial work
 
@@ -174,3 +174,4 @@ https://github.com/ajsat007/Hospital-Management-System.gitGive the example
 - Instruct by : - @juniedenysolomon
 - Inspiration:-@bhupendraparihar
 - References:-@juniedenysolomon
+- Skill-Lync
