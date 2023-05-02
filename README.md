@@ -168,7 +168,7 @@ https://github.com/ajsat007/Hospital-Management-System.gitGive the example
 
 - [@ajsat007 ](https://github.com/ajsat007)Ajinkya Satkar - Idea & Initial work
 
-# 🎉 Acknowledgements `<a name = "acknowledgement"></a>`
+# 🎉 Acknowledgements <a name = "acknowledgement"></a>
 
 - Instruct by : - @juniedenysolomon
 - Inspiration:-@bhupendraparihar
