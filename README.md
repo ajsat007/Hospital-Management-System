@@ -25,7 +25,6 @@
 
 - [About](#about)
 - [Getting Started](#getting_started)
-- [Deployment](#deployment)
 - [Usage](#usage)
 - [Built Using](#built_using)
 - [Authors](#authors)
@@ -64,7 +63,7 @@ https://github.com/ajsat007/Hospital-Management-System.gitGive the example
 
 # Project Views 
 
-## 🎈 Login Panels  <a name="usage"></a>
+## 🎈 Login Panels  <a name="usage">Usage</a>
 
 ## ![1682503871930](https://github.com/ajsat007/Hospital-Management-System/blob/main/screenshot/Screenshot%20(496).png)Admin  Login Panel :-
 
