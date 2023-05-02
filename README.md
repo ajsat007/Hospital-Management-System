@@ -174,4 +174,4 @@ https://github.com/ajsat007/Hospital-Management-System.gitGive the example
 - Instruct by : - @juniedenysolomon
 - Inspiration:-@bhupendraparihar
 - References:-@juniedenysolomon
-- Skill-Lync
+- Skill-Lync[@Skill Lync ](https://skill-lync.com/)
