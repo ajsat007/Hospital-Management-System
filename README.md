@@ -60,10 +60,10 @@ https://github.com/ajsat007/Hospital-Management-System.gitGive the example
 3.Imported it in Intellij IDEA or any other Java IDE.
 
 4.Run the application :
-
+<a name="usage">Usage</a>
 # Project Views 
 
-## 🎈 Login Panels  <a name="usage">Usage</a>
+## 🎈 Login Panels  <a name="usage"></a>
 
 ## ![1682503871930](https://github.com/ajsat007/Hospital-Management-System/blob/main/screenshot/Screenshot%20(496).png)Admin  Login Panel :-
 
